@@ -20,3 +20,4 @@ There is my plan
 3. Extends the evaluation function
 4. Go to Monte-Carlo to enjoy life, and moreover fine-tune evaluation parameters (old and new)
 5. If successful (and drunk !), port it to C++
+6. If CUI (Coding Under Influence), make the C++ port works on ESP32
